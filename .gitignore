@@ -14,3 +14,8 @@
 .cxx
 local.properties
 .idea
+app/release
+app/release/*.apk
+app/release/baselineProfiles/*.dm
+app/release/output-metadata.json
+key.jks
